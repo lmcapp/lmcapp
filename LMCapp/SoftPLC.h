@@ -90,3 +90,4 @@ protected:
 	static DWORD WINAPI TimerThread(LPVOID lpParam);
 };
 extern CSoftPLC plc;
+//----------------------jceshi
