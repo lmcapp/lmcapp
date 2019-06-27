@@ -1,7 +1,12 @@
 #pragma once
 #include "DEFPLC.h"
 #include "Logic.h"
-
+/*
+版权所有
+引用请注明出处
+作者：刘辉
+日期：2019-6-27
+*/
 enum val_type
 {
 	X,Y,M,T,D,N
